@@ -7,4 +7,4 @@ front 运行步骤
 安装
 1.npm install
 运行命令
-2.npm run dev
+2.npm run serve
